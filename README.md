@@ -2,3 +2,4 @@
 
 - WebApp Scanning presentation
 - Defcon 30
+- IOT Pentesting
